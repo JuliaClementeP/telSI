@@ -10,4 +10,10 @@
 
 <a href="https://colab.research.google.com/github/JuliaClementeP/telSI/blob/main/unit2_SSII_alumn.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab"/>
-</a>
+</a> 
+
+## 📘 Tema 3 - Elementos básicos del lenguaje C
+
+<a href="https://colab.research.google.com/github/JuliaClementeP/telSI/blob/main/unit3_SSII_alumn.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab"/>
+</a> 
