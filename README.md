@@ -35,3 +35,9 @@
 <a href="https://colab.research.google.com/github/JuliaClementeP/telSI/blob/main/unit6_SSII_alumn.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab"/>
 </a>
+
+## 📘 Tema 7 - Tipos estructurados de datos. Estructuradas (parte II)
+
+<a href="https://colab.research.google.com/github/JuliaClementeP/telSI/blob/main/unit7_SSII_alumn.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab"/>
+</a>
