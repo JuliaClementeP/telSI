@@ -41,3 +41,10 @@
 <a href="https://colab.research.google.com/github/JuliaClementeP/telSI/blob/main/unit7_SSII_alumn.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab"/>
 </a>
+
+
+## 📘 Tema 8 - Puntero
+
+<a href="https://colab.research.google.com/github/JuliaClementeP/telSI/blob/main/unit8_SSII_alumn.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab"/>
+</a>
